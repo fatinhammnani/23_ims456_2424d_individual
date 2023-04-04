@@ -1,4 +1,24 @@
+body
+      {
+         background-color:bisque;
+      }
+
 h1
       {
-         color:rgb(6, 181, 187);
+         color:rgb(224, 167, 44);
+         font-family:cursive;
+      }
+
+a
+      {
+         text-decoration: none;
+         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+         padding: 10px;
+         font-size: 16pt;
+      }
+
+a:hover
+      {
+         color:lightcoral;
+         font-size: 18pt;
       }
