@@ -1,6 +1,6 @@
 body
       {
-         background-color:bisque;
+         background-color:rgb(243, 229, 195);
       }
 
 h1
@@ -26,7 +26,7 @@ a:hover
 .header
       {
          width: 100%;
-         background-color: palevioletred;
+         background-color: rgb(211, 154, 70);
          padding-bottom: 30px;
       }
 
@@ -40,7 +40,7 @@ a:hover
 .box1
       {
          width: 25%;
-         background-color: lightpink;
+         background-color: rgb(255, 182, 194);
          padding-bottom: 200px;
          float: right;
       }      
@@ -68,3 +68,9 @@ a:hover
          padding-bottom: 200px;
          float: right;
       }      
+
+.content
+      {
+         text-align:center;
+         font-family: 'Fira Sans', sans-serif;
+      }
